@@ -2,9 +2,9 @@
 //Write a function that takes a string as
 //input and returns the number of vowels in the string.
 function word(){
-    let p="AkiraChix"
-    p2=p.replace(/[a,e,i,o,u]/gi,"").length
-    console.log(p2)
+    let name="Basketball"
+    name2=p.replace(/[a,e,i,o,u]/gi,"").length
+    console.log(name2)
 }
 word()
 //  Write a function that takes an array of numbers as
@@ -30,3 +30,18 @@ function Numbers(num1,num2){
 }
 console.log(Numbers(44,60))
 
+//Write a function that takes in a array of numbers as a parameter and returns the second largest number in the array
+function numbsArray(numbera){
+    array=[5,10,3,8];
+    let secondLargestNumber=findSecondLargest(array);
+
+}
+console.log(secondLargestNumber);
+
+
+//Write a function that takes a string as a parameter and returns true if the string is a palindrome and false otherwise
+function isPalinrome(string){
+    l
+}
+
+7
